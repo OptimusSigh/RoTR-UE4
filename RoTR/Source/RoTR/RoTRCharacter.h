@@ -6,7 +6,7 @@
 #include "GameFramework/Character.h"
 #include "RoTRCharacter.generated.h"
 
-DECLARE_DYNAMIC_MULTICAST_DELEGATE(FInteruptCasting);
+//DECLARE_DYNAMIC_MULTICAST_DELEGATE(FInteruptCasting);
 
 UCLASS(config=Game)
 class ARoTRCharacter : public ACharacter
@@ -31,8 +31,8 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseLookUpRate;
 
-	UPROPERTY(BlueprintAssignable, Category = "EventDelegate")
-		FInteruptCasting InteruptCasting;
+	//UPROPERTY(BlueprintAssignable, Category = "EventDelegate")
+		//FInteruptCasting InteruptCasting;
 
 protected:
 
