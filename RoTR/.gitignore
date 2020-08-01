@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Excluding trees
+Content\Art_Assets\test folder*
+
 # Compiled Object files
 *.slo
 *.lo
