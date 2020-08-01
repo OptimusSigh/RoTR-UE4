@@ -2,7 +2,7 @@
 .vs/
 
 # Excluding trees
-*Content\Art_Assets\test folder
+*Content/Art_Assets/test folder/
 
 # Compiled Object files
 *.slo
