@@ -3,6 +3,7 @@
 
 # Excluding large files
 *Content/Art_Assets/Ignored_Assets
+*Content/beffio
 
 # Compiled Object files
 *.slo
