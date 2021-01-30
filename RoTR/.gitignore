@@ -4,6 +4,7 @@
 # Excluding large files
 *Content/Art_Assets/Ignored_Assets
 *Content/beffio
+*Content/TrailPack
 
 # Compiled Object files
 *.slo
